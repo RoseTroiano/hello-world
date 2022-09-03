@@ -1,2 +1,2 @@
 # setup-ferramentas
-Atividades do Setup de ferramentas
+Atividade do Setup de ferramentas
