@@ -1,2 +1,2 @@
-# setup-ferramentas
-Atividade do Setup de ferramentas
+# hello-word
+Atividade proposta da aula Setup de ferramentas
